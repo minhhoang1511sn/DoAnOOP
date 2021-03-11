@@ -1,0 +1,14 @@
+C:\Users\TG\Desktop\Đồ án oop\Quản lý sở thú\QLST\QLST\obj\Debug\QLST.csprojAssemblyReference.cache
+C:\Users\TG\Desktop\Đồ án oop\Quản lý sở thú\QLST\QLST\obj\Debug\QLST.csproj.CoreCompileInputs.cache
+C:\Users\TG\Desktop\Đồ án oop\Quản lý sở thú\QLST\QLST\bin\Debug\QLST.exe.config
+C:\Users\TG\Desktop\Đồ án oop\Quản lý sở thú\QLST\QLST\bin\Debug\QLST.exe
+C:\Users\TG\Desktop\Đồ án oop\Quản lý sở thú\QLST\QLST\bin\Debug\QLST.pdb
+C:\Users\TG\Desktop\Đồ án oop\Quản lý sở thú\QLST\QLST\obj\Debug\QLST.exe
+C:\Users\TG\Desktop\Đồ án oop\Quản lý sở thú\QLST\QLST\obj\Debug\QLST.pdb
+C:\Users\TG\Documents\GitHub\DoAnCuoiKiOOP\QLST\bin\Debug\QLST.exe.config
+C:\Users\TG\Documents\GitHub\DoAnCuoiKiOOP\QLST\bin\Debug\QLST.exe
+C:\Users\TG\Documents\GitHub\DoAnCuoiKiOOP\QLST\bin\Debug\QLST.pdb
+C:\Users\TG\Documents\GitHub\DoAnCuoiKiOOP\QLST\obj\Debug\QLST.csprojAssemblyReference.cache
+C:\Users\TG\Documents\GitHub\DoAnCuoiKiOOP\QLST\obj\Debug\QLST.csproj.CoreCompileInputs.cache
+C:\Users\TG\Documents\GitHub\DoAnCuoiKiOOP\QLST\obj\Debug\QLST.exe
+C:\Users\TG\Documents\GitHub\DoAnCuoiKiOOP\QLST\obj\Debug\QLST.pdb
